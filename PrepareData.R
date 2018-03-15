@@ -2,6 +2,7 @@
 library(XML)
 library(xml2)
 library(dplyr)
+library(tidyr)
 
 data <- xmlParse("exported_feed.xml")
 xml_data <- xmlToList(data)
@@ -12,16 +13,27 @@ xml_data <- xmlToList(data)
 
 
 # 2nd Apprach
-content_path <- "//temperature[@type='hourly']/value"
-
 df <- data.frame(name = sapply(data["//meta/@name"], as.character),
                  content = sapply(data["//meta/@content"], as.character.default))
 
 # 3rd approach
-data2 <- read_xml("exported_feed.xml")
+data2 <- read_xml("exported_feed.xml", encoding = "UTF-8")
 meta <- data2 %>% xml_find_all("//meta")
-
 df2 <- data.frame(name = sapply(meta %>% xml_attr("name"), as.character),
                   content = sapply(meta %>% xml_attr("content"), as.character))
+
+df2 <- df2 %>% spread(name, content)
+
+
+tst <- function(metav) {
+  srvcName <- vector(mode = "character", length = 3)
+  for (variable in metav) {
+    if(variable %>% xml_attr("name") == "description") {
+      #append(srvcName, variable %>% xml_attr("content"))
+      print(variable %>% xml_attr("content"))
+    }
+  }
+}
+
 
 
