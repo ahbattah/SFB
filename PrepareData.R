@@ -22,18 +22,20 @@ meta <- data2 %>% xml_find_all("//meta")
 df2 <- data.frame(name = sapply(meta %>% xml_attr("name"), as.character),
                   content = sapply(meta %>% xml_attr("content"), as.character))
 
-df2 <- df2 %>% spread(name, content)
 
 
 tst <- function(metav) {
-  srvcName <- vector(mode = "character", length = 3)
+  srvcName <- vector(mode = "character")
   for (variable in metav) {
     if(variable %>% xml_attr("name") == "description") {
-      #append(srvcName, variable %>% xml_attr("content"))
+      srvcName <- append(srvcName, variable %>% xml_attr("content"))
       print(variable %>% xml_attr("content"))
     }
   }
 }
 
 
+
+desc <- sapply(meta %>% xml_attr("name"), 
+               function(x){if (x == "description") (meta %>% xml_attr("content"))})
 
