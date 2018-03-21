@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:ibmwcm="http://purl.org/net/ibmfeedsvc/wcm/1.0" version="2.0">
+	<channel>
+		<title>SFB WCM Content Importing Feed</title>
+		<link>http://www.ibm.com/feeds/sample.rss</link>
+		<description>SFB Feed to import content into WCM</description>
+		<lastBuildDate>Mon, 12 Mar 2018 10:31:00 EST</lastBuildDate>
+		
+				<item>
+			<title>Complaints, Suggestions and Follow Up Service</title>
+			<link>1</link>
+			<description>Complaints, Suggestions and Follow Up Service</description>
+			<guid>80000110</guid>
+			<pubDate>Mon, 12 Mar 2018 10:31:00 EST</pubDate>
+			<author>sfbadmin</author>
+			<ibmwcm:action>add</ibmwcm:action>
+			<ibmwcm:itemType>content</ibmwcm:itemType>
+			<ibmwcm:authoringTemplate>/Administration/Service_AT</ibmwcm:authoringTemplate>
+			<ibmwcm:path>/Service Factbook/Capital Governorate</ibmwcm:path>
+			<ibmwcm:owner>sfbadmin</ibmwcm:owner>
+			<ibmwcm:publishDate>Mon, 12 Mar 2018 10:31:00 EST</ibmwcm:publishDate>
+			
+<!-- Service details -->			
+			<ibmwcm:element name="Service Name">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>Complaints, Suggestions and Follow Up Service </ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Service Name_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value> طلب تقديم الشكاوى والاستفسارات ومتابعة الطلبات  </ibmwcm:value>
+			</ibmwcm:element>
+<!-- Alphabet -->			
+			<ibmwcm:element name="Alphabet ID">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>C</ibmwcm:value>
+			</ibmwcm:element>			
+			<ibmwcm:element name="Alphabet ID_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value> </ibmwcm:value>
+			</ibmwcm:element>
+
+<!-- Entities -->			
+			<ibmwcm:element name="Entities ID">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>Capital Governorate</ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Entities ID_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>محافظة العاصمة</ibmwcm:value>
+			</ibmwcm:element>			
+<!-- Life cycle -->
+			<ibmwcm:element name="Life Cycle ID">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>Others</ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Life Cycle ID_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>أخرى</ibmwcm:value>
+			</ibmwcm:element>
+			
+<!-- Options - Group 1 -->
+ 		    <ibmwcm:element name="is Individuals">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>true</ibmwcm:value>
+			</ibmwcm:element>
+
+			<ibmwcm:element name="is Online">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>false</ibmwcm:value>
+			</ibmwcm:element>
+<!-- Service Link -->			
+			<ibmwcm:element name="Service Link">
+				<ibmwcm:type>text</ibmwcm:type>
+				<ibmwcm:value></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="ServiceLink_ar">
+				<ibmwcm:type>text</ibmwcm:type>
+				<ibmwcm:value></ibmwcm:value>
+			</ibmwcm:element>
+<!-- Keywords -->			
+			<ibmwcm:element name="Keywords">
+				<ibmwcm:type>text</ibmwcm:type>
+				<ibmwcm:value>Capital Governorate, Complaints, Suggestions, Follow up, Follow up Requests, Submission Request  </ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Keywords_ar">
+				<ibmwcm:type>text</ibmwcm:type>
+				<ibmwcm:value>محافظة العاصمة، شكاوي،استفسارات،متابعة،تقديم الطلبات،متابعة الطلبات</ibmwcm:value>
+			</ibmwcm:element>
+			
+<!-- Short and Full Descriptions -->			
+			<ibmwcm:element name="Short Description">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Short Description_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Full Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<p>This service is provided by the Capital Governorate to Individuals who are citizens or residents in the Governorate  requesting to submit their complaints and suggestions with regards of services provided by other ministries in the Kingdom of Bahrain, they also contribute in follow-up requests through various channels including official newspapers, radio messages, social media, mobile application and etc.  </p>]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Full Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<p>تقدم هذه الخدمة من قبل محافظة العاصمة إلى الأفراد من المواطنين أو المقيمين في المحافظة الراغبين في تقديم الشكاوى والاستفسارات لدى الجهات والوزارات الخدمية الموجودة في المملكة كما تساهم في متابعة الطلبات عبر مختلف القنوات ومنها الجرائد الرسمية والرسائل الإذاعية ووسائل التواصل الاجتماعي وتطبيقات الهاتف..إلخ.  </p>]]></ibmwcm:value>
+			</ibmwcm:element>
+			
+<!-- Email ID -->
+
+
+
+				<ibmwcm:element name="Email ID">
+									<ibmwcm:type>shorttext</ibmwcm:type>
+								
+				
+				
+				
+									<ibmwcm:value>complains@capital.gov.bh</ibmwcm:value>
+								
+			</ibmwcm:element>
+						
+			<ibmwcm:element name="Email Service Process Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Submits all required documents and information though one of the channels. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete.
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Notify the applicant with the status of his application via telephone call.</div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Email Service Process Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها. 
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب هاتفيا بمستجدات الطلب.  </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+	
+			
+		
+		
+		
+				<ibmwcm:element name="Website URL">
+									<ibmwcm:type>text</ibmwcm:type>
+								
+				
+				
+				
+									<ibmwcm:value>http://www.capital.gov.bh/Default.aspx</ibmwcm:value>
+								
+			</ibmwcm:element>
+					<ibmwcm:element name="Website Availability">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>24/7 </ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Availability_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>على مدار الساعة</ibmwcm:value>
+			</ibmwcm:element>
+						
+			<ibmwcm:element name="Website Service Process Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Submits all required documents and information though one of the channels. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete.
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Notify the applicant with the status of his application via telephone call.</div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Service Process Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها. 
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب هاتفيا بمستجدات الطلب.  </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+	
+			
+		
+				<ibmwcm:element name="Website URL">
+									<ibmwcm:type>text</ibmwcm:type>
+								
+				
+				
+				
+									<ibmwcm:value>1.	Facebook: Capital Governorate: https://www.facebook.com/capitalbahrain  2.	Twitter: Cg_Bahrain: https://twitter.com/CG_Bahrain  3.	Youtube:  cg.gov.bh </ibmwcm:value>
+								
+			</ibmwcm:element>
+					<ibmwcm:element name="Website Availability">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>24/7</ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Availability_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>على مدار الساعة</ibmwcm:value>
+			</ibmwcm:element>
+						
+			<ibmwcm:element name="Website Service Process Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete.
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Notify the applicant with the status of his application via telephone call.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Submits all required documents and information though one of the channels. </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Service Process Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها. 
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب هاتفيا بمستجدات الطلب.  </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات. </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+	
+			
+		
+				<ibmwcm:element name="Website URL">
+									<ibmwcm:type>text</ibmwcm:type>
+								
+				
+				
+				
+									<ibmwcm:value>https://oservices.bahrain.bh/wps/portal/ncs/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hfR08jT0sTI0sLIw9nA0cLF1fTUHNjQ3cjM_3gxCL9cJAuZFUhZkZAVT5B5mbmlgYGBkYQebMgSzMLJ0NHA4tAL6ApJk4WhoHmFgYG7uYQeQMcwNFA388jPzdVvyDbyzXNUVERACnBdZc!/dl3/d3/L0lDU0lKSmdrS0NsRUpDZ3BSQ1NBL29Ob2dBRUlRaGpFS0lRQUJHY1p3aklDa3FTaFNOQkFOYUEhIS80QzFiOVdfTnIwZ0RFU1pJSlJERVNaTUpRaUlrZmchIS83X01BSTJJOTQyOU80NTIwQU8wM0lVTTIyMlUzL1cya0pFNzUyMzAwMDEvaWJtLmludi8yOTYxMzg1NDA3NTQvamF2YXguc2VydmxldC5pbmNsdWRlLnBhdGhfaW5mby8lMENvbXBsYWlucyUwQ29tcGxhaW5zVmlldy5qc3A!/ </ibmwcm:value>
+								
+			</ibmwcm:element>
+					<ibmwcm:element name="Website Availability">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>24/7 </ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Availability_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>على مدار الساعة </ibmwcm:value>
+			</ibmwcm:element>
+						
+			<ibmwcm:element name="Website Service Process Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Submits all required documents and information though one of the channels. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete.
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Notify the applicant with the status of his application via telephone call.</div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Service Process Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها. 
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب هاتفيا بمستجدات الطلب.  </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+	
+			
+		
+		
+		
+<ibmwcm:element name="Physical Desk">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+				
+
+
+
+						<div class="table-service sfb-service-location mb-2">
+							<ul>
+								<li class="left-cell-service" style="color: rgb(200, 0, 9); font-weight: bold;">Physical Location</li>
+								<li class="right-cell-service">Capital Governorate,
+Building 44,
+Road 2508,
+Block 325,
+Qudaibiya  - Kingdom of Bahrain ,
+P.O. box 26060</li>
+							</ul>	
+							<ul>
+								<li class="left-cell-service">Availability:</li>
+								<li class="right-cell-service">Sunday -  Thursday 
+7:00 AM  2:00 PM</li>
+							</ul>
+							
+							<ul class="view-service-process-action">
+								<li class="left-cell-service">
+									<a href="javascript:void(0)" class="view-service-process-link">
+										View Service Process
+										<img src="images/expand_arrow_down.png">
+									</a>
+								</li>
+								<li class="right-cell-service"></li>
+							</ul>	
+						</div>
+						
+												<div class="view-service-process-content mb-2">
+							<div>
+								<div class="table-resp" role="grid">
+								<div class="table-resp-head" role="row">
+									<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+									<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+								</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant </div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Submits all required documents and information though one of the channels. </div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete.
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed.</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Notify the applicant with the status of his application via telephone call.</div>
+									</div>
+																
+								</div>
+							</div>
+						</div>
+						
+
+				
+
+
+
+						<div class="table-service sfb-service-location mb-2">
+							<ul>
+								<li class="left-cell-service" style="color: rgb(200, 0, 9); font-weight: bold;">Capital Governorate weekly council </li>
+								<li class="right-cell-service">Building 44, 
+Road 2508, 
+Block 325, 
+Al Sheyookh Avenue,
+Qudaibiya - Kingdom of Bahrain
+</li>
+							</ul>	
+							<ul>
+								<li class="left-cell-service">Availability:</li>
+								<li class="right-cell-service">Thursday 
+9:00 PM - 10:30 PM 
+</li>
+							</ul>
+							
+							<ul class="view-service-process-action">
+								<li class="left-cell-service">
+									<a href="javascript:void(0)" class="view-service-process-link">
+										View Service Process
+										<img src="images/expand_arrow_down.png">
+									</a>
+								</li>
+								<li class="right-cell-service"></li>
+							</ul>	
+						</div>
+						
+												<div class="view-service-process-content mb-2">
+							<div>
+								<div class="table-resp" role="grid">
+								<div class="table-resp-head" role="row">
+									<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+									<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+								</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Notify the applicant with the status of his application via telephone call.</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant </div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Submits all required documents and information though one of the channels. </div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete.
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed.</div>
+									</div>
+																
+								</div>
+							</div>
+						</div>
+						
+
+				
+]]></ibmwcm:value>
+</ibmwcm:element>
+
+
+<ibmwcm:element name="Physical Desk_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+
+
+
+						<div class="table-service sfb-service-location mb-2">
+							<ul>
+								<li class="left-cell-service" style="color: rgb(200, 0, 9); font-weight: bold;">موقع المكتب </li>
+								<li class="right-cell-service">محافظة العاصمة،
+مبنى 44،
+طريق 2508،
+مجمع 325،
+القضيبية - مملكة البحرين، 
+صندوق بريد 26060</li>
+							</ul>	
+							<ul>
+								<li class="left-cell-service">الأوقات المتاحة:</li>
+								<li class="right-cell-service">الأحد - الخميس 
+7:00 صباحاً - 2:00 مساءاً
+</li>
+							</ul>
+							<ul class="view-service-process-action">
+								<li class="left-cell-service">
+									<a href="javascript:void(0)" class="view-service-process-link">
+										كيفية التقديم
+										<img src="images/expand_arrow_down.png">
+									</a>
+								</li>
+								<li class="right-cell-service"></li>
+							</ul>	
+						</div>
+						
+												<div class="view-service-process-content mb-2">
+							<div>
+								<div class="table-resp" role="grid">
+								<div class="table-resp-head" role="row">
+									<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+									<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+								</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب </div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات. </div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها. 
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب.</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب هاتفيا بمستجدات الطلب.  </div>
+									</div>
+																
+								</div>
+							</div>
+						</div>
+						
+
+				
+
+
+
+						<div class="table-service sfb-service-location mb-2">
+							<ul>
+								<li class="left-cell-service" style="color: rgb(200, 0, 9); font-weight: bold;">مجلس محافظة العاصمة الأسبوعي</li>
+								<li class="right-cell-service">مبنى 44 ،
+طريق 2508، 
+مجمع 325 ،
+شارع الشيوخ، 
+القضيبية - مملكة البحرين </li>
+							</ul>	
+							<ul>
+								<li class="left-cell-service">الأوقات المتاحة:</li>
+								<li class="right-cell-service">الخميس 
+9:00 مساءاً - 10:30 مساءاً </li>
+							</ul>
+							<ul class="view-service-process-action">
+								<li class="left-cell-service">
+									<a href="javascript:void(0)" class="view-service-process-link">
+										كيفية التقديم
+										<img src="images/expand_arrow_down.png">
+									</a>
+								</li>
+								<li class="right-cell-service"></li>
+							</ul>	
+						</div>
+						
+												<div class="view-service-process-content mb-2">
+							<div>
+								<div class="table-resp" role="grid">
+								<div class="table-resp-head" role="row">
+									<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+									<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+								</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب هاتفيا بمستجدات الطلب.  </div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب </div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات. </div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها. 
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب.</div>
+									</div>
+																
+								</div>
+							</div>
+						</div>
+						
+
+				
+]]></ibmwcm:value>
+</ibmwcm:element>
+
+		
+<!-- Options - Group -->	
+								
+			<ibmwcm:element name="Age">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Age_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Experience and Qualifications">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Experience and Qualifications_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Financial Information">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Financial Information_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Readiness">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Readiness_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Exceptions">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<ol>
+<li>The applicant should be a resident in the Kingdom of Bahrain</li>
+<li>The applicant should be a resident in the <strong>Capital Governorate</strong></li>
+</ol>]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Exceptions_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<ol>
+<li>يجب أن يكون مقدم الطلب مقيم في مملكة البحرين</li>
+<li>يجب أن يكون مقدم الطلب من قاطنين <strong>محافظة العاصمة</strong></li>
+</ol>]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Others">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Others_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+
+<!-- Required Documents -->
+
+			<ibmwcm:element name="Required Documents and Information">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<p><ol>
+<li>Official letter addressed to the Capital Governor</li>
+<li>Related documents and photos regarding the compliant</li>
+<li>Applicant’s Identity Card</li>
+<li>Applicant’s address</li>
+</ol></p>]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Required Documents and Information_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<p><ol>
+<li>رسالة موجهة إلى محافظ العاصمة</li>
+<li>صور ومستندات المتعلقة بالشكوى</li>
+<li>البطاقة الشخصية لمقدم الطلب</li>
+<li>عنوان مقدم الطلب</li>
+</ol></p>]]></ibmwcm:value>
+			</ibmwcm:element>
+
+
+<!-- Fees -->			
+			<ibmwcm:element name="Fees Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value>
+		<![CDATA[
+		
+
+		]]>
+				
+				</ibmwcm:value>
+			</ibmwcm:element>
+			
+			
+			<ibmwcm:element name="Fees Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value>
+		<![CDATA[
+		
+
+		]]>
+				
+				</ibmwcm:value>
+			</ibmwcm:element>
+
+			
+<!-- Fine or Penalty-->			
+			<ibmwcm:element name="Fine or Penalty Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value>
+		<![CDATA[
+		
+
+		]]>
+				
+				</ibmwcm:value>
+			</ibmwcm:element>
+			
+			
+			
+			
+			<ibmwcm:element name="Fine or Penalty Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value>
+		<![CDATA[
+		
+
+		]]>
+				
+				</ibmwcm:value>
+			</ibmwcm:element>
+
+			
+						
+			
+			<ibmwcm:access type="user">[all users]</ibmwcm:access>
+		</item>
+		<item>
+			<title>Social and Financial Support for Emergencies Application Request</title>
+			<link>1</link>
+			<description>Social and Financial Support for Emergencies Application Request</description>
+			<guid>80000111</guid>
+			<pubDate>Mon, 12 Mar 2018 10:31:00 EST</pubDate>
+			<author>sfbadmin</author>
+			<ibmwcm:action>add</ibmwcm:action>
+			<ibmwcm:itemType>content</ibmwcm:itemType>
+			<ibmwcm:authoringTemplate>/Administration/Service_AT</ibmwcm:authoringTemplate>
+			<ibmwcm:path>/Service Factbook/Capital Governorate</ibmwcm:path>
+			<ibmwcm:owner>sfbadmin</ibmwcm:owner>
+			<ibmwcm:publishDate>Mon, 12 Mar 2018 10:31:00 EST</ibmwcm:publishDate>
+			
+<!-- Service details -->			
+			<ibmwcm:element name="Service Name">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>Social and Financial Support for Emergencies Application Request</ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Service Name_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>طلب الدعم الإجتماعي والمالي للحالات الطارئة</ibmwcm:value>
+			</ibmwcm:element>
+<!-- Alphabet -->			
+			<ibmwcm:element name="Alphabet ID">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>S</ibmwcm:value>
+			</ibmwcm:element>			
+			<ibmwcm:element name="Alphabet ID_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>ط</ibmwcm:value>
+			</ibmwcm:element>
+
+<!-- Entities -->			
+			<ibmwcm:element name="Entities ID">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>Capital Governorate</ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Entities ID_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>محافظة العاصمة</ibmwcm:value>
+			</ibmwcm:element>			
+<!-- Life cycle -->
+			<ibmwcm:element name="Life Cycle ID">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>Others</ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Life Cycle ID_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>أخرى</ibmwcm:value>
+			</ibmwcm:element>
+			
+<!-- Options - Group 1 -->
+ 		    <ibmwcm:element name="is Individuals">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>true</ibmwcm:value>
+			</ibmwcm:element>
+
+			<ibmwcm:element name="is Online">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>false</ibmwcm:value>
+			</ibmwcm:element>
+<!-- Service Link -->			
+			<ibmwcm:element name="Service Link">
+				<ibmwcm:type>text</ibmwcm:type>
+				<ibmwcm:value></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="ServiceLink_ar">
+				<ibmwcm:type>text</ibmwcm:type>
+				<ibmwcm:value></ibmwcm:value>
+			</ibmwcm:element>
+<!-- Keywords -->			
+			<ibmwcm:element name="Keywords">
+				<ibmwcm:type>text</ibmwcm:type>
+				<ibmwcm:value>Capital Governorate, Social Support, Social and Financial Support for Emergencies Application Request, Financial Support, Social and Financial Suppprt, Emergency Cases, Financial and Social Support, Emergencies Application Request, Emergencies Application</ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Keywords_ar">
+				<ibmwcm:type>text</ibmwcm:type>
+				<ibmwcm:value>محافظة العاصمة، طلب الدعم الإجتماعي والمالي للحالات الطارئة، طلب الدعم الإجتماعي، طلب الدعم المالي، الحالات الطارئة </ibmwcm:value>
+			</ibmwcm:element>
+			
+<!-- Short and Full Descriptions -->			
+			<ibmwcm:element name="Short Description">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Short Description_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Full Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<p><p>This service is provided by the <strong>Capital Governorate</strong> to Individualswho are citizens or residents of citizens and residents of the <strong>Governorate</strong> requesting for emergency social support that is represented in financial and in-kind support which will be granted to any family or individual suffered in any of the following cases:</p>
+<ol>
+<li>Fire</li>
+<li>Residential unit follow-up requests.</li>
+<li>Employment request.</li>
+<li>Ramshackle houses follow-up.</li>
+<li>Disasters and calamities or emergency situations determined by H.E. the Governor.</li>
+</ol></p>]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Full Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<p><p>تقدم هذه الخدمة من قبل <strong>محافظة العاصمة </strong>إلى الأفراد من المواطنين أوالمقيمين  في <strong>المحافظة </strong>الراغبين في طلب الحصول على الإعانة الاجتماعية الطارئة وتتمثل في المبالغ النقدية أو العينية التي يتقرر منحها لأية أسرة أو فرد تضرر في أي من الحالات الآتية:</p>
+<ol>
+<li>حالات الحريق.</li>
+<li>متابعة طلبات الوحدة السكنية.</li>
+<li>طلب التوظيف.</li>
+<li>متابعة حالات المنازل الآيلة للسقوط.</li>
+<li>الكوارث أو النكبات أو الحالات الطارئة التي يقدرها سعادة المحافظ.</li>
+</ol></p>]]></ibmwcm:value>
+			</ibmwcm:element>
+			
+<!-- Email ID -->
+
+
+
+				<ibmwcm:element name="Email ID">
+									<ibmwcm:type>shorttext</ibmwcm:type>
+								
+				
+				
+				
+									<ibmwcm:value>complains@capital.gov.bh</ibmwcm:value>
+								
+			</ibmwcm:element>
+						
+			<ibmwcm:element name="Email Service Process Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Submit all required information and documents through one of the channels. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete. 
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed and conduct a site visit to evaluate the case.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Respond to the applicant with the procedures to be followed to collect the aid.</div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Email Service Process Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">
+تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات.  
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب وزيارة الحالة لتقييمها ميدانيا.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب بإجراءات استلام المساعدة. </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+	
+			
+		
+		
+		
+				<ibmwcm:element name="Website URL">
+									<ibmwcm:type>text</ibmwcm:type>
+								
+				
+				
+				
+									<ibmwcm:value>http://www.capital.gov.bh/Default.aspx</ibmwcm:value>
+								
+			</ibmwcm:element>
+					<ibmwcm:element name="Website Availability">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>24/7 </ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Availability_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>على مدار الساعة</ibmwcm:value>
+			</ibmwcm:element>
+						
+			<ibmwcm:element name="Website Service Process Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Submit all required information and documents through one of the channels. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete. 
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed and conduct a site visit to evaluate the case.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Respond to the applicant with the procedures to be followed to collect the aid.</div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Service Process Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">
+تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات.  
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب وزيارة الحالة لتقييمها ميدانيا.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب بإجراءات استلام المساعدة. </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+	
+			
+		
+				<ibmwcm:element name="Website URL">
+									<ibmwcm:type>text</ibmwcm:type>
+								
+				
+				
+				
+									<ibmwcm:value>1.	Facebook: Capital Governorate: https://www.facebook.com/capitalbahrain  2.	Twitter: Cg_Bahrain: https://twitter.com/CG_Bahrain  3.	Youtube:  cg.gov.bh </ibmwcm:value>
+								
+			</ibmwcm:element>
+					<ibmwcm:element name="Website Availability">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>24/7</ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Availability_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>على مدار الساعة</ibmwcm:value>
+			</ibmwcm:element>
+						
+			<ibmwcm:element name="Website Service Process Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Submit all required information and documents through one of the channels. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete. 
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed and conduct a site visit to evaluate the case.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Respond to the applicant with the procedures to be followed to collect the aid.</div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Service Process Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">
+تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات.  
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب وزيارة الحالة لتقييمها ميدانيا.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب بإجراءات استلام المساعدة. </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+	
+			
+		
+				<ibmwcm:element name="Website URL">
+									<ibmwcm:type>text</ibmwcm:type>
+								
+				
+				
+				
+									<ibmwcm:value>https://oservices.bahrain.bh/wps/portal/ncs/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hfR08jT0sTI0sLIw9nA0cLF1fTUHNjQ3cjM_3gxCL9cJAuZFUhZkZAVT5B5mbmlgYGBkYQebMgSzMLJ0NHA4tAL6ApJk4WhoHmFgYG7uYQeQMcwNFA388jPzdVvyDbyzXNUVERACnBdZc!/dl3/d3/L0lDU0lKSmdrS0NsRUpDZ3BSQ1NBL29Ob2dBRUlRaGpFS0lRQUJHY1p3aklDa3FTaFNOQkFOYUEhIS80QzFiOVdfTnIwZ0RFU1pJSlJERVNaTUpRaUlrZmchIS83X01BSTJJOTQyOU80NTIwQU8wM0lVTTIyMlUzL1cya0pFNzUyMzAwMDEvaWJtLmludi8yOTYxMzg1NDA3NTQvamF2YXguc2VydmxldC5pbmNsdWRlLnBhdGhfaW5mby8lMENvbXBsYWlucyUwQ29tcGxhaW5zVmlldy5qc3A!/ </ibmwcm:value>
+								
+			</ibmwcm:element>
+					<ibmwcm:element name="Website Availability">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>24/7 </ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Availability_ar">
+				<ibmwcm:type>shorttext</ibmwcm:type>
+				<ibmwcm:value>على مدار الساعة </ibmwcm:value>
+			</ibmwcm:element>
+						
+			<ibmwcm:element name="Website Service Process Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Submit all required information and documents through one of the channels. </div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete. 
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed and conduct a site visit to evaluate the case.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">Respond to the applicant with the procedures to be followed to collect the aid.</div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Website Service Process Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+								<div>
+					<div class="table-resp" role="grid">
+						<div class="table-resp-head" role="row">
+							<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+							<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+						</div>
+						
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">
+تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات.  
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها.
+</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب وزيارة الحالة لتقييمها ميدانيا.</div>
+							</div>
+													<div class="resp-row" role="row">
+								<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة </div>	
+								<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب بإجراءات استلام المساعدة. </div>
+							</div>
+											</div>
+				</div>
+								]]></ibmwcm:value>
+			</ibmwcm:element>
+	
+			
+		
+		
+		
+<ibmwcm:element name="Physical Desk">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+				
+
+
+
+						<div class="table-service sfb-service-location mb-2">
+							<ul>
+								<li class="left-cell-service" style="color: rgb(200, 0, 9); font-weight: bold;">Physical Location</li>
+								<li class="right-cell-service">Capital Governorate,
+Building 44,
+Road 2508,
+Block 325,
+Qudaibiya  - Kingdom of Bahrain ,
+P.O. box 26060</li>
+							</ul>	
+							<ul>
+								<li class="left-cell-service">Availability:</li>
+								<li class="right-cell-service">Sunday -  Thursday 
+7:00 AM  2:00 PM</li>
+							</ul>
+							
+							<ul class="view-service-process-action">
+								<li class="left-cell-service">
+									<a href="javascript:void(0)" class="view-service-process-link">
+										View Service Process
+										<img src="images/expand_arrow_down.png">
+									</a>
+								</li>
+								<li class="right-cell-service"></li>
+							</ul>	
+						</div>
+						
+												<div class="view-service-process-content mb-2">
+							<div>
+								<div class="table-resp" role="grid">
+								<div class="table-resp-head" role="row">
+									<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+									<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+								</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Submit all required information and documents through one of the channels. </div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete. 
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed and conduct a site visit to evaluate the case.</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate </div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Respond to the applicant with the procedures to be followed to collect the aid.</div>
+									</div>
+																
+								</div>
+							</div>
+						</div>
+						
+
+				
+
+
+
+						<div class="table-service sfb-service-location mb-2">
+							<ul>
+								<li class="left-cell-service" style="color: rgb(200, 0, 9); font-weight: bold;">Capital Governorate weekly council </li>
+								<li class="right-cell-service">Building 44, 
+Road 2508, 
+Block 325, 
+Al Sheyookh Avenue,
+Qudaibiya - Kingdom of Bahrain
+</li>
+							</ul>	
+							<ul>
+								<li class="left-cell-service">Availability:</li>
+								<li class="right-cell-service">Thursday 
+9:00 PM - 10:30 PM 
+</li>
+							</ul>
+							
+							<ul class="view-service-process-action">
+								<li class="left-cell-service">
+									<a href="javascript:void(0)" class="view-service-process-link">
+										View Service Process
+										<img src="images/expand_arrow_down.png">
+									</a>
+								</li>
+								<li class="right-cell-service"></li>
+							</ul>	
+						</div>
+						
+												<div class="view-service-process-content mb-2">
+							<div>
+								<div class="table-resp" role="grid">
+								<div class="table-resp-head" role="row">
+									<div class="resp-column" data-label="Column1" role="columnheader">Activity Owner</div>	
+									<div class="resp-column" data-label="Column2" role="columnheader">Activity Description</div>
+								</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Applicant</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Submit all required information and documents through one of the channels. </div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Ensure all required documents and information are complete. 
+In case the submitted documents and information are incomplete, the applicant will be notified by telephone to complete them.
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">In case of submission of all required documents and information, the application will be reviewed and conduct a site visit to evaluate the case.</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">Capital Governorate </div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">Respond to the applicant with the procedures to be followed to collect the aid.</div>
+									</div>
+																
+								</div>
+							</div>
+						</div>
+						
+
+				
+]]></ibmwcm:value>
+</ibmwcm:element>
+
+
+<ibmwcm:element name="Physical Desk_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[
+
+
+
+						<div class="table-service sfb-service-location mb-2">
+							<ul>
+								<li class="left-cell-service" style="color: rgb(200, 0, 9); font-weight: bold;">موقع المكتب </li>
+								<li class="right-cell-service">محافظة العاصمة،
+مبنى 44،
+طريق 2508،
+مجمع 325،
+القضيبية - مملكة البحرين، 
+صندوق بريد 26060</li>
+							</ul>	
+							<ul>
+								<li class="left-cell-service">الأوقات المتاحة:</li>
+								<li class="right-cell-service">الأحد - الخميس 
+7:00 صباحاً - 2:00 مساءاً
+</li>
+							</ul>
+							<ul class="view-service-process-action">
+								<li class="left-cell-service">
+									<a href="javascript:void(0)" class="view-service-process-link">
+										كيفية التقديم
+										<img src="images/expand_arrow_down.png">
+									</a>
+								</li>
+								<li class="right-cell-service"></li>
+							</ul>	
+						</div>
+						
+												<div class="view-service-process-content mb-2">
+							<div>
+								<div class="table-resp" role="grid">
+								<div class="table-resp-head" role="row">
+									<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+									<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+								</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">
+تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات.  
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها.
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب وزيارة الحالة لتقييمها ميدانيا.</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة </div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب بإجراءات استلام المساعدة. </div>
+									</div>
+																
+								</div>
+							</div>
+						</div>
+						
+
+				
+
+
+
+						<div class="table-service sfb-service-location mb-2">
+							<ul>
+								<li class="left-cell-service" style="color: rgb(200, 0, 9); font-weight: bold;">مجلس محافظة العاصمة الأسبوعي</li>
+								<li class="right-cell-service">مبنى 44 ،
+طريق 2508، 
+مجمع 325 ،
+شارع الشيوخ، 
+القضيبية - مملكة البحرين </li>
+							</ul>	
+							<ul>
+								<li class="left-cell-service">الأوقات المتاحة:</li>
+								<li class="right-cell-service">الخميس 
+9:00 مساءاً - 10:30 مساءاً </li>
+							</ul>
+							<ul class="view-service-process-action">
+								<li class="left-cell-service">
+									<a href="javascript:void(0)" class="view-service-process-link">
+										كيفية التقديم
+										<img src="images/expand_arrow_down.png">
+									</a>
+								</li>
+								<li class="right-cell-service"></li>
+							</ul>	
+						</div>
+						
+												<div class="view-service-process-content mb-2">
+							<div>
+								<div class="table-resp" role="grid">
+								<div class="table-resp-head" role="row">
+									<div class="resp-column" data-label="Column1" role="columnheader">المسؤول عن العملية</div>	
+									<div class="resp-column" data-label="Column2" role="columnheader">وصف العملية</div>
+								</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">مقدم الطلب</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">
+تسليم جميع المستندات والمعلومات المطلوبة عبر إحدى القنوات.  
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">التأكد من استكمال جميع المستندات والمعلومات المطلوبة.
+في حال عدم تقديم جميع المستندات والمعلومات المطلوبة يتم إبلاغ مقدم الطلب هاتفيا لاستكمالها.
+</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة</div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">في حال تقديم جميع المستندات والمعلومات المطلوبة يتم مراجعة الطلب وزيارة الحالة لتقييمها ميدانيا.</div>
+									</div>
+																	<div class="resp-row" role="row">
+										<div class="resp-column" data-label="Activity Owner" role="gridcell">محافظة العاصمة </div>	
+										<div class="resp-column" data-label="Activity Description" role="gridcell">إبلاغ مقدم الطلب بإجراءات استلام المساعدة. </div>
+									</div>
+																
+								</div>
+							</div>
+						</div>
+						
+
+				
+]]></ibmwcm:value>
+</ibmwcm:element>
+
+		
+<!-- Options - Group -->	
+								
+			<ibmwcm:element name="Age">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Age_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Experience and Qualifications">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Experience and Qualifications_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Financial Information">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Financial Information_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Readiness">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Readiness_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Exceptions">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<ol>
+<li>The applicant should be a resident in the Kingdom of Bahrain</li>
+<li>The applicant should be a resident in the <strong>Capital Governorate</strong></li>
+</ol>]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Exceptions_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<ol>
+<li>يجب أن يكون مقدم الطلب مقيم في مملكة البحرين</li>
+<li>يجب أن يكون مقدم الطلب من قاطنين <strong>محافظة العاصمة</strong></li>
+</ol>]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Others">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Others_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[]]></ibmwcm:value>
+			</ibmwcm:element>
+
+<!-- Required Documents -->
+
+			<ibmwcm:element name="Required Documents and Information">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<p><ol>
+<li><strong><u>Fire emergency cases: </u></strong>
+<ul style="list-style-type: disc;">
+<li>Identity Cards for family members</li>
+<li>Report issued by the General Directorate of Civil Defence</li>
+<li>Copy of the head of household’s salary certificate  </li>
+<li>Copy of the police report</li>
+<li>Copy of the Title deed</li>
+</ul>
+</li>
+<li><strong><u>Residential unit follow-up requests</u><u>:</u></strong><u></u><u></u>
+<ul style="list-style-type: disc;">
+<li>Copy of the family member’s passports</li>
+<li>Copy of the family member’s Identity Cards</li>
+<li>Copy of the card request from Ministry of Housing</li>
+<li>Head of the household’s salary certificate<u></u></li>
+</ul>
+</li>
+<li><strong><u>Employment request:</u></strong>
+<ul style="list-style-type: disc;">
+<li>Official letter addressed to the Capital Governor</li>
+<li>Resume</li>
+<li>Qualifications</li>
+<li>Copy of the passport and Identity Card<u></u></li>
+</ul>
+</li>
+<li><strong><u>Ramshackle houses follow-up:</u></strong>
+<ul style="list-style-type: disc;">
+<li>Official letter addressed to the Capital Governor</li>
+<li>Copy of the family members passports and Identity Card</li>
+<li>the request for Municipal council</li>
+<li>household’s salary certificate</li>
+<li>Copy of the Title deed</li>
+</ul>
+</li>
+</ol></p>]]></ibmwcm:value>
+			</ibmwcm:element>
+			<ibmwcm:element name="Required Documents and Information_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value><![CDATA[<p><ol>
+<li><strong><u>حالة الحريق الطارئة:</u></strong>
+<ul style="list-style-type: disc;">
+<li>بطاقات الهوية لأفراد المنزل</li>
+<li>تقريرصادر من الإدارة العامة للدفاع المدني</li>
+<li>نسخة من شهادة راتب رب الأسرة</li>
+<li>نسخة من محضر الشرطة</li>
+<li>نسخة من أوراق ملكية العقار</li>
+</ul>
+</li>
+<li><strong><u>متابعة طلبات الوحدة سكنية: </u></strong>
+<ul style="list-style-type: disc;">
+<li>نسخ من جوازات سفر العائلة</li>
+<li>نسخ من بطاقات هوية العائلة</li>
+<li>نسخة من بطاقة الطلب من قبل وزارة الإسكان</li>
+<li>شهادة راتب رب الأسرة</li>
+</ul>
+</li>
+<li><strong><u>طلب التوظيف: </u></strong>
+<ul style="list-style-type: disc;">
+<li>رسالة موجهه لمحافظ العاصمة</li>
+<li>السيرة الذاتية</li>
+<li>المؤهلات العلمية</li>
+<li>نسخة من جواز السفر وبطاقة الهوية</li>
+</ul>
+</li>
+<li><strong><u>تابعة المنازل الآيلة للسقوط: </u></strong>
+<ul style="list-style-type: disc;">
+<li>رسالة موجهة إلى محافظ العاصمة</li>
+<li>نسخة من جوازات السفر وبطاقات الهوية لسكان المنزل</li>
+<li>الطلب المقدم للمجلس البلدي</li>
+<li>شهادة راتب رب الأسرة</li>
+<li>نسخة من أوراق ملكية العقار </li>
+</ul>
+</li>
+</ol></p>]]></ibmwcm:value>
+			</ibmwcm:element>
+
+
+<!-- Fees -->			
+			<ibmwcm:element name="Fees Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value>
+		<![CDATA[
+		
+
+		]]>
+				
+				</ibmwcm:value>
+			</ibmwcm:element>
+			
+			
+			<ibmwcm:element name="Fees Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value>
+		<![CDATA[
+		
+
+		]]>
+				
+				</ibmwcm:value>
+			</ibmwcm:element>
+
+			
+<!-- Fine or Penalty-->			
+			<ibmwcm:element name="Fine or Penalty Description">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value>
+		<![CDATA[
+		
+
+		]]>
+				
+				</ibmwcm:value>
+			</ibmwcm:element>
+			
+			
+			
+			
+			<ibmwcm:element name="Fine or Penalty Description_ar">
+				<ibmwcm:type>rich text</ibmwcm:type>
+				<ibmwcm:value>
+		<![CDATA[
+		
+
+		]]>
+				
+				</ibmwcm:value>
+			</ibmwcm:element>
+
+			
+						
+			
+			<ibmwcm:access type="user">[all users]</ibmwcm:access>
+		</item>
+	</channel>
+</rss>
