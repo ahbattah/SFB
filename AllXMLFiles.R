@@ -24,26 +24,57 @@ fillServices <- function(path) {
     
     print(paste0("xmlFile=", variable))
     
+    if(variable == "eGovernmentAuthority.xml") {
+      txt <- readLines(file(paste0(path, variable)))
+      txt <- gsub("&", "and", txt)
+      writeLines(txt, file(paste0(path, variable)))
+    }
+    
+    if(variable == "Electricity&WaterAuthority.xml") {
+      txt <- readLines(file(paste0(path, variable)))
+      txt <- gsub("&id", "&amp;id", txt)
+      writeLines(txt, file(paste0(path, variable)))
+    }
+    
     # Read xml file
     xmlFile <- xmlParse(paste0(path, variable), encoding = "UTF-8")
     
     # Create temp df
     xml_df <- data.frame(
       Title = xpathSApply(xmlFile, "//item//title", xmlValue),
+      
       Service_Name_EN = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Service Name']//ibmwcm:value", xmlValue),
+      
       Service_Name_AR = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Service Name_ar']//ibmwcm:value", xmlValue),
+      
       Entity_ID_EN = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Entities ID']//ibmwcm:value", xmlValue),
+      
       Entity_ID_AR = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Entities ID_ar']//ibmwcm:value", xmlValue),
+      
       Lifecycle_ID_EN = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Life Cycle ID']//ibmwcm:value", xmlValue),
+      
       Lifecycle_ID_AR = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Life Cycle ID_ar']//ibmwcm:value", xmlValue),
-      Individual = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'is Individuals']//ibmwcm:value", xmlValue),
+      
+      Individual = ifelse(length(xpathApply(ministry_xml, "//item//ibmwcm:element[@name = 'is Individuals']")) > 0 ,
+        xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'is Individuals']//ibmwcm:value", xmlValue),
+        NA),
+      
       Online = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'is Online']//ibmwcm:value", xmlValue),
+      
       Service_Link_EN = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Service Link']//ibmwcm:value", xmlValue),
+      
       Service_Link_AR = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'ServiceLink_ar']//ibmwcm:value", xmlValue),
+      
       Keywords_EN = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Keywords']//ibmwcm:value", xmlValue),
+      
       Keywords_AR = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Keywords_ar']//ibmwcm:value", xmlValue),
-      #Email = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Email ID']//ibmwcm:value", xmlValue),
-      #Website_URL = xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Website URL'][1]//ibmwcm:value", xmlValue)
+      
+      Email = ifelse(length(xpathApply(ministry_xml, "//item//ibmwcm:element[@name = 'Email ID']")) > 0 ,
+        xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Email ID']//ibmwcm:value", xmlValue),
+        NA),
+      Website_URL = ifelse(length(xpathApply(ministry_xml, "//item//ibmwcm:element[@name = 'Website URL']")) > 0 ,
+        xpathSApply(xmlFile, "//item//ibmwcm:element[@name = 'Website URL'][1]//ibmwcm:value", xmlValue),
+        NA),
       stringsAsFactors = FALSE
     )
     
